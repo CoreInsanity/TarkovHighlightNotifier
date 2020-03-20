@@ -1,0 +1,9 @@
+C:\Users\maxim\source\repos\EFTHighlightDetector\EFTHighlightDetector\bin\Debug\EFTHighlightDetector.exe.config
+C:\Users\maxim\source\repos\EFTHighlightDetector\EFTHighlightDetector\bin\Debug\EFTHighlightDetector.exe
+C:\Users\maxim\source\repos\EFTHighlightDetector\EFTHighlightDetector\bin\Debug\EFTHighlightDetector.pdb
+C:\Users\maxim\source\repos\EFTHighlightDetector\EFTHighlightDetector\obj\Debug\EFTHighlightDetector.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\EFTHighlightDetector\EFTHighlightDetector\obj\Debug\EFTHighlightDetector.exe
+C:\Users\maxim\source\repos\EFTHighlightDetector\EFTHighlightDetector\obj\Debug\EFTHighlightDetector.pdb
+C:\Users\maxim\source\repos\EFTHighlightDetector\EFTHighlightDetector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxim\source\repos\EFTHighlightDetector\EFTHighlightDetector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxim\source\repos\EFTHighlightDetector\EFTHighlightDetector\obj\Debug\EFTHighlightDetector.csproj.CopyComplete
